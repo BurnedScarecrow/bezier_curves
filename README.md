@@ -2,7 +2,7 @@
 
 > This project plots a Bezier curve based on 3-10 points.
  
-Vivit [Bezier curves on GH Pages](https://burnedscarecrow.github.io/bezier_curves/Here) to try it now.
+Vivit [Bezier curves on GH Pages](https://burnedscarecrow.github.io/bezier_curves/) to try it now.
 
 ### Project setup
 ```
